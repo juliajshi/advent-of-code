@@ -1,0 +1,4 @@
+# ignores all .txt input files
+*.txt
+
+.DS_Store
